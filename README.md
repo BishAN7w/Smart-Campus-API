@@ -1,6 +1,6 @@
 # Smart Campus Sensor & Room Management API
 
-**Module:** 5COSC022W – Client-Server Architectures  
+**Module:** 5COSC032C – Client-Server Architectures  
 **University:** University of Westminster – School of Computer Science and Engineering  
 **Module Leader:** Hamed Hamzeh  
 **Stack:** JAX-RS (Jersey 2.41) + Grizzly2 Embedded HTTP Server + Java 11
